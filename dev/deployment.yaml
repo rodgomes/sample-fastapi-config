@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: sample-fastapi
-        image: rodgomes95/sample-fastapi:0.0.1
+        image: rodgomes95/sample-fastapi:0.0.2
         ports:
         - containerPort: 8000
